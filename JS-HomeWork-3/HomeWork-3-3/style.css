@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+.product-card{
+    width: 300px;
+}
+
+.product-card > img {
+    width: 100%;
+}
+
+.product-title{
+    color: red;
+    display: flex;
+    justify-content: center;
+}
